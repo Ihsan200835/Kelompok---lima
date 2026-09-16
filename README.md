@@ -2,17 +2,17 @@
 ## 1. Group Information
 
 **Class:** D  
-**Group:** 1
+**Group:** 5
 
 ### Group Members
 
 | No. | Name | Student ID | Role |
 |---|---|---|---|
-| 1 | Student 1 | XXXXX | Project Coordinator |
-| 2 | Student 2 | XXXXX | Algorithm |
-| 3 | Student 3 | XXXXX | Flowchart |
-| 4 | Student 4 | XXXXX | JavaScript |
-| 5 | Student 5 | XXXXX | Testing & Documentation |
+| 1 | Arga pramudya | 2610312108 | Project Coordinator |
+| 2 | Ihsan Muhammad Kamil | 2610312137 | Algorithm |
+| 3 | Keisya fakhira risdiana | 2610312111 | Flowchart |
+| 4 | Student 4 | Galeno Siswodeantoro | 2610312122 | JavaScript |
+| 5 | Student 5 | Muhammad Naufal Afkar | 2610312119 | Testing & Documentation |
 
 ---
 
