@@ -24,7 +24,7 @@ Ticket Price Calculator
 
 ## 3. Project Description
 
-This program is a simple game in which the player must guess a number determined by the computer.
+a program that calculates the total ticket price for an event. Ticket prices are based on the visitor's age
 
 ---
 
@@ -46,8 +46,8 @@ This project is designed to apply the following programming concepts:
 
 The program receives:
 
-- The player's guess
-- The number of attempts
+The number of tickets — the number of tickets purchased by the customer.
+The age of each visitor — the age of each person purchasing a ticket
 
 ---
 
