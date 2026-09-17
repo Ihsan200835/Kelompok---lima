@@ -12,7 +12,7 @@
 | 2 |Muhammad Naufal Afkar  | 2610312119 | Algorithm |
 | 3 | Keisya Fakhira Risdiana  | 2610312111| Flowchart |
 | 4 | Muhamad Ihsan Kamil | 2610312137 | JavaScript |
-| 5 | Galeno Siswodeantoro |  | 2610312122| Testing & Documentation |
+| 5 | Galeno Siswodeantoro | 2610312122| Testing & Documentation |
 
 ---
 
