@@ -8,11 +8,11 @@
 
 | No. | Name | Student ID | Role |
 |---|---|---|---|
-| 1 | Student 1 | XXXXX | Project Coordinator |
-| 2 | Student 2 | XXXXX | Algorithm |
-| 3 | Student 3 | XXXXX | Flowchart |
-| 4 | Student 4 | XXXXX | JavaScript |
-| 5 | Student 5 | XXXXX | Testing & Documentation |
+| 1 | Muhammad Naufal Afkar | 2610312119 | Project Coordinator |
+| 2 | Keisya Fakhira Risdiana | 2610312111 | Algorithm |
+| 3 | Galeno Siswodeantoro | 2610312122 | Flowchart |
+| 4 | Muhamad Ihsan Kamil | 2610312137 | JavaScript |
+| 5 | Arga Pramuditya | 2610312108 | Testing & Documentation |
 
 ---
 
