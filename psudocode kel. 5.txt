@@ -1,0 +1,41 @@
+Function Main
+    Declare Integer jumlahPengunjung
+    Declare Integer usia
+    Declare Integer hargaTiket
+    Declare Integer totalHarga
+    Declare Real diskon
+    Declare Real hargaAkhir
+    Declare Integer i
+
+    Output "Masukkan jumlah pengunjung: "
+    Input jumlahPengunjung
+    Assign totalHarga = 0
+    For i = 1 to jumlahPengunjung
+        Output "Masukkan usia pengunjung:"
+        Input usia
+        If usia < 5
+            Assign hargaTiket = 0
+        Else
+            If usia <= 12
+                Assign hargaTiket = 5
+            Else
+                If usia <= 59
+                    Assign hargaTiket = 10
+                Else
+                    Assign hargaTiket = 7
+                End
+            End
+        End
+        Assign totalHarga = totalHarga + hargaTiket
+    End
+    If jumlahPengunjung >= 5
+        Assign diskon = totalHarga * 0.10
+    Else
+        Assign diskon = 0
+    End
+    Assign hargaAkhir = totalHarga - diskon
+    Output "Jumlah tiket: " & ToString(jumlahPengunjung)
+    Output "Total harga sebelum diskon: $" & ToString(totalHarga)
+    Output "Diskon: $" & ToString(diskon)
+    Output "Harga akhir: $" & ToString(hargaAkhir)
+End
