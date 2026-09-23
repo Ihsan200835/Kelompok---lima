@@ -8,8 +8,8 @@
 
 | No. | Name | Student ID | Role |
 |---|---|---|---|
-| 1 |Arga Pramuditya | 2610312108 | Project Coordinator |
-| 2 |Muhammad Naufal Afkar  | 2610312119 | Algorithm |
+| 1 |Muhammad Naufal Afkar | 2610312119 | Project Coordinator |
+| 2 | Arga Pramuditya | 2610312108 | Algorithm |
 | 3 | Keisya Fakhira Risdiana  | 2610312111| Flowchart |
 | 4 | Muhamad Ihsan Kamil | 2610312137 | JavaScript |
 | 5 | Galeno Siswodeantoro | 2610312122| Testing & Documentation |
@@ -67,10 +67,10 @@ If the guess is:
 
 The program displays:
 
-- The result of each guess
-- Hints or feedback
-- The number of remaining attempts
-- The final game status (win/loss)
+-The ticket price for each visitor based on their age
+-The total number of tickets purchased
+-The total price of all tickets
+-A summary of the ticket purchase
 
 ---
 
