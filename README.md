@@ -18,8 +18,6 @@
 
 ## 2. Project Title
 
-Number Guessing Game
-
 Ticket Price Calculator 
 
 ## 3. Project Description
